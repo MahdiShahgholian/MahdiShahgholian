@@ -10,8 +10,8 @@ Python Developer & Data scientist.
 - ⚡ Fun fact: if coffe != None:
                  print("good code")
 - 📫 How to reach me:
-B2n.ir/linkedin_mahdi
-B2n.ir/instagram_mahdi
+<a href="https://www.linkedin.com/in/mahdi-shahgholian-38b730286/">linkedin_mahdi</a>
+<a href="https://www.instagram.com/mahdi.shahgholian.78">instagram_mahdi</a>
 <!---
 MahdiShahgholian/MahdiShahgholian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
